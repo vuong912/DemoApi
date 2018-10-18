@@ -1,2 +1,2 @@
 # DemoApi
-Just demo api.net core and demo push github :)
+Just demo api .net core and demo push github :)
